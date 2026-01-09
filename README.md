@@ -31,9 +31,8 @@ Além de programar, adoro desafios e enigmas que me façam pensar. No meu tempo 
 ---
 
 Se quiser trocar uma ideia sobre programação, tecnologias, ou até sobre música e desafios, é só me chamar! 😊
-
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-bia07&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-bia07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/ana-bia07">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?ana-bia07&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?ana-bia07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
