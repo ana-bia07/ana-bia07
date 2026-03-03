@@ -32,7 +32,7 @@
 ![k8s](https://img.shields.io/badge/k8s-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgocCD-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 <div align="center">
-<h2>Vamos nos convectar?</h2>
+<h2>Vamos nos conectar?</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%232DA9D7?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-de-oliveira-alves-388b312b1)
 [![Portifolio](https://img.shields.io/badge/portifolio-%238D7ACF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ana-bia07.github.io)
