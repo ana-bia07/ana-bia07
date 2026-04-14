@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou a Ana! 👋 </h1>
-  <h3>Dev Back-End / Cloud Practitioner / Java</h3>
+  <h3>Dev Back-End / Cloud Practitioner / Java / Spring Boot / SQL / NoSQL / </h3>
 </div>
 <h2>Sobre mim</h2>
   <p>🚀 Estudante Fatec DSM 5° semestre<br>
